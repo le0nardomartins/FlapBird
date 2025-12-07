@@ -1,0 +1,33 @@
+"""
+Arquivo de configuração do jogo Flappy Bird
+Contém todas as variáveis de configuração que controlam o comportamento do jogo
+"""
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GREEN = (0, 150, 0)
+DARK_GREEN = (0, 100, 0)
+BLUE = (135, 206, 235)
+BROWN = (139, 69, 19)
+
+GRAVITY = 0.5
+JUMP_STRENGTH = -8
+
+BASE_PIPE_SPEED = 3
+MAX_PIPE_SPEED = 8
+SPEED_INCREMENT = 0.1
+
+PIPE_SPAWN_DISTANCE = 300
+MIN_PIPE_GAP = 150
+MAX_PIPE_GAP = 250
+PIPE_WIDTH = 80
+
+CLOUD_MIN_SPACING = 100
+CLOUD_MAX_SPACING = 250
+CLOUD_MIN_Y = 50
+CLOUD_MAX_Y = 400
+CLOUD_SPEED_MULTIPLIER = 0.3
