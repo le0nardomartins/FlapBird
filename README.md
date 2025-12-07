@@ -2,16 +2,6 @@
 
 Bem-vindo ao Flappy Bird! Este é um jogo clássico onde você controla um pássaro que precisa voar entre canos sem colidir. Este guia vai te ensinar tudo que você precisa para jogar!
 
-## 📋 Índice
-
-1. [Como Baixar o Python](#como-baixar-o-python)
-2. [Como Instalar as Bibliotecas](#como-instalar-as-bibliotecas)
-3. [Como Rodar o Jogo](#como-rodar-o-jogo)
-4. [Como Jogar](#como-jogar)
-5. [Estrutura do Projeto](#estrutura-do-projeto)
-6. [Conceitos de Programação](#conceitos-de-programação)
-
----
 
 ## 🐍 Como Baixar o Python
 
